@@ -4,7 +4,6 @@ A paint program is a software graphics program that allows the user to draw, col
 
 - [Paint Program](#paint-program)
   - [Authors](#authors)
-  - [Badges](#badges)
   - [Demo](#demo)
   - [Screenshots](#screenshots)
   - [Features](#features)
@@ -29,14 +28,10 @@ A paint program is a software graphics program that allows the user to draw, col
 
 ## Authors
 
-- Amr Abdelsamee Yousef (7126)
-- Mohammed Saeed Abdelhafz (7034)
-- Hussein Mourad Kassem (6729)
-- Ahmed Saeed Nouh (7086)
-
-## Badges
-
-![MIT LICENSE](./assets/mit.svg)
+- Amr Abdelsamee Yousef
+- Mohammed Saeed Abdelhafz
+- Hussein Mourad Kassem
+- Ahmed Saeed Nouh
 
 ## Demo 
 
